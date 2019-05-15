@@ -1,9 +1,9 @@
 # Tallgrass parser
 - [source code](https://github.com/ventinus/specific-xml-parser)
-- open command prompt
-- navigate to the package source code (cd Desktop/tallgrass-parser)
+- open terminal with bash: Windows start menu -> Git -> Git Bash
+- navigate to the package source code `$ cd Desktop/tallgrass-parser`
 - save the .xlsx file to this directory, rename it to "file" or whatever is short and easy
-- to simply execute the script with default arguments, type: `$ ruby parser.rb`
+- to simply execute the script with default arguments, type: `$ ruby parse.rb`
 - files will be generated in the /output directory with each file the name of the sheet it parsed
 
 ### Arguments
